@@ -16,7 +16,7 @@ Temperature: TMP117 The one I bought is no longer available on amazon. Here is t
 
 Batery: 503035 3.7v https://www.amazon.com/Winfox-Rechargeable-Connector-Bluetooth-Portable/dp/B0GDQLLF12/ref=sr_1_1_sspa?crid=2A5BO56HILG18&keywords=qimoo%2B503035&qid=1783271126&sprefix=qimoo%2B503035%2Caps%2C135&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&th=1
 
-Resistors: 2 100kOhm
+Resistors: 2 10k Ohm
 
 Wire: 28 Ga, I reccomend getting at least 4 colors (1 for each of the following 3.3V, GND, SCL, SDA)
 
