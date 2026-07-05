@@ -23,3 +23,5 @@ Wire: 28 Ga, I reccomend getting at least 4 colors (1 for each of the following 
 20mm watch band: https://www.amazon.com/WOCCI-Adjustable-Nylon-Watch-Release/dp/B09YTPMRJY/ref=sr_1_1?crid=7ZQQV8H5AX59&dib=eyJ2IjoiMSJ9.94SnBy2WNNc4WtQAMlg8hKfPnjmsUvKo0H8wbet5InU7dAmFyfRdwfX3QJoQa7jmQV7MpF9Gq9-BLoQds0j9sB4wRBWyPaTQ_mHYmjQt4egjGgfEjnVN2WczBOdUyuBXh8dnPOdkBaISq2ekIWo8DKzF7QORoaIpDWqZOHLTZof8tbch0wF2cG6oCYlGY5Q2cRiV3lxsHEaWS0uOjeJNHWN-nc9ok0RWL9Zk6vsRTJjTs4-18l1exomIHW6a0TK2DQfYyWTFfixoOP1IV8KhMoNfqvNMrsmX5xfG0eSlQNA._qImbWuItak_NKJGU3LS2PPzDJJfZTXi46O91t-ia0c&dib_tag=se&keywords=wocci%2B20mm%2Badjustable%2Bnylon%2Bwatch%2Bband&qid=1783271051&sprefix=wocci%2B20mm%2Badj%2Caps%2C131&sr=8-1&th=1
 
 Housing: I printed mine on an Ender 3-V2 in PLA with a 0.4mm nozzle
+
+Metal slug: I cut the top off of a stainless bolt with a 7/16" head
